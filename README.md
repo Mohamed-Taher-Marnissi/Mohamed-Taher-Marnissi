@@ -29,6 +29,8 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
 
 
 
