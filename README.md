@@ -30,6 +30,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 
 
 
