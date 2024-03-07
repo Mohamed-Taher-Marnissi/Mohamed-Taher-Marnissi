@@ -28,7 +28,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
